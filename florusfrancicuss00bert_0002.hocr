@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florusfrancicuss00bert/florusfrancicuss00bert_0002.png"; bbox 0 0 1264 2189; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 307 390 936 1080">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 307 390 936 1080">
+     <span class='ocr_line' id='line_1_1' title="bbox 307 390 936 1080; baseline 0 1109"><span class='ocrx_word' id='word_1_1' title='bbox 307 390 936 1080; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 14 1336 1264 1398">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 14 1336 1264 1398">
+     <span class='ocr_line' id='line_1_2' title="bbox 14 1336 1264 1398; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 14 1339 65 1398; x_wconf 93' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_3' title='bbox 118 1336 509 1398; x_wconf 89' lang='lat' dir='ltr'>BOSTON</span> <span class='ocrx_word' id='word_1_4' title='bbox 557 1336 914 1397; x_wconf 90' lang='lat' dir='ltr'>PUBLIC</span> <span class='ocrx_word' id='word_1_5' title='bbox 962 1336 1264 1395; x_wconf 91' lang='lat' dir='ltr'>LIBRA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1530 1264 1682">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1530 1264 1682">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 1530 1264 1682; baseline -0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 0 1621 187 1682; x_wconf 70' lang='lat' dir='ltr'>DAN</span> <span class='ocrx_word' id='word_1_7' title='bbox 240 1620 362 1681; x_wconf 89' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_8' title='bbox 413 1621 604 1682; x_wconf 89' lang='lat' dir='ltr'>ARC</span> <span class='ocrx_word' id='word_1_9' title='bbox 657 1530 1264 1681; x_wconf 52' lang='lat' dir='ltr'>COLLECTS&#39;IO?i</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 52 1815 254 2189">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 52 1815 254 2189">
+     <span class='ocr_line' id='line_1_4' title="bbox 52 1815 254 2189; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 52 1815 254 2189; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
